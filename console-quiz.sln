@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quiz", "Quiz\Quiz.csproj", "{8767D884-0D28-4309-BB83-FE8E4ED2CFD9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuizBackend", "QuizBackend\QuizBackend.csproj", "{C578D8CB-DE0B-4948-8E93-04B218F57768}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8767D884-0D28-4309-BB83-FE8E4ED2CFD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8767D884-0D28-4309-BB83-FE8E4ED2CFD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8767D884-0D28-4309-BB83-FE8E4ED2CFD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8767D884-0D28-4309-BB83-FE8E4ED2CFD9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C578D8CB-DE0B-4948-8E93-04B218F57768}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C578D8CB-DE0B-4948-8E93-04B218F57768}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C578D8CB-DE0B-4948-8E93-04B218F57768}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C578D8CB-DE0B-4948-8E93-04B218F57768}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CDCC23A1-D6B8-433F-98F9-9A14482B27C4}
+	EndGlobalSection
+EndGlobal
