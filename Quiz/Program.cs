@@ -36,6 +36,7 @@ namespace Quiz
         static void DisplayQuestion(Question question)
         {
             Console.WriteLine();
+            Console.WriteLine($"Question for {question.Category}");
             Console.WriteLine(question.Text);
             foreach (var answer in question.Answers)
             {

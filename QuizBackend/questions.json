@@ -1,0 +1,2599 @@
+[
+  {
+    "Id": 1,
+    "Category": "$500",
+    "Text": "In what children's game are participants chased by someone designated \"It\"?",
+    "Answers": [
+      {
+        "Id": 1,
+        "Text": "Tag",
+        "IsCorrect": true
+      },
+      {
+        "Id": 2,
+        "Text": "Simon Says",
+        "IsCorrect": false
+      },
+      {
+        "Id": 3,
+        "Text": "Charades",
+        "IsCorrect": false
+      },
+      {
+        "Id": 4,
+        "Text": "Hopscotch",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Id": 2,
+    "Category": "$500",
+    "Text": "On a radio, stations are changed by using what control?",
+    "Answers": [
+      {
+        "Id": 1,
+        "Text": "Tuning",
+        "IsCorrect": true
+      },
+      {
+        "Id": 2,
+        "Text": "Volume",
+        "IsCorrect": false
+      },
+      {
+        "Id": 3,
+        "Text": "Bass",
+        "IsCorrect": false
+      },
+      {
+        "Id": 4,
+        "Text": "Treble",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Id": 3,
+    "Category": "$500",
+    "Text": "In the U.S., if it's not Daylight Saving Time, it's what?",
+    "Answers": [
+      {
+        "Id": 1,
+        "Text": "Standard time",
+        "IsCorrect": true
+      },
+      {
+        "Id": 2,
+        "Text": "Borrowed time",
+        "IsCorrect": false
+      },
+      {
+        "Id": 3,
+        "Text": "Overtime",
+        "IsCorrect": false
+      },
+      {
+        "Id": 4,
+        "Text": "Party time",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Id": 4,
+    "Category": "$500",
+    "Text": "An albino gorilla usually has what color fur?",
+    "Answers": [
+      {
+        "Id": 1,
+        "Text": "White",
+        "IsCorrect": true
+      },
+      {
+        "Id": 2,
+        "Text": "Brown",
+        "IsCorrect": false
+      },
+      {
+        "Id": 3,
+        "Text": "Black",
+        "IsCorrect": false
+      },
+      {
+        "Id": 4,
+        "Text": "Golden",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Id": 5,
+    "Category": "$500",
+    "Text": "Olimpic Games are organized every",
+    "Answers": [
+      {
+        "Id": 1,
+        "Text": "4 years",
+        "IsCorrect": true
+      },
+      {
+        "Id": 2,
+        "Text": "5 years",
+        "IsCorrect": false
+      },
+      {
+        "Id": 3,
+        "Text": "2 years",
+        "IsCorrect": false
+      },
+      {
+        "Id": 4,
+        "Text": "10 years",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Id": 6,
+    "Category": "$500",
+    "Text": "When you enter a situation without a definite plan of action, you are said to be \"playing it by\" what?",
+    "Answers": [
+      {
+        "Id": 1,
+        "Text": "Ear",
+        "IsCorrect": true
+      },
+      {
+        "Id": 2,
+        "Text": "Fingertips",
+        "IsCorrect": false
+      },
+      {
+        "Id": 3,
+        "Text": "Nose",
+        "IsCorrect": false
+      },
+      {
+        "Id": 4,
+        "Text": "Mouth",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Id": 7,
+    "Category": "$500",
+    "Text": "Which of the following consumer goods is the Gerber Products Co. best known for?",
+    "Answers": [
+      {
+        "Id": 1,
+        "Text": "Baby Food",
+        "IsCorrect": true
+      },
+      {
+        "Id": 2,
+        "Text": "Potato chips",
+        "IsCorrect": false
+      },
+      {
+        "Id": 3,
+        "Text": "Fine wines",
+        "IsCorrect": false
+      },
+      {
+        "Id": 4,
+        "Text": "Chewing gum",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Id": 8,
+    "Category": "$500",
+    "Text": "What kind of animal traditionally lives in a sty?",
+    "Answers": [
+      {
+        "Id": 1,
+        "Text": "Pig",
+        "IsCorrect": true
+      },
+      {
+        "Id": 2,
+        "Text": "Fox",
+        "IsCorrect": false
+      },
+      {
+        "Id": 3,
+        "Text": "Cow",
+        "IsCorrect": false
+      },
+      {
+        "Id": 4,
+        "Text": "Teenager",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Id": 9,
+    "Category": "$1 000",
+    "Text": "Which material is most dense?",
+    "Answers": [
+      {
+        "Id": 1,
+        "Text": "Gold",
+        "IsCorrect": true
+      },
+      {
+        "Id": 2,
+        "Text": "Styrofoam",
+        "IsCorrect": false
+      },
+      {
+        "Id": 3,
+        "Text": "Silver",
+        "IsCorrect": false
+      },
+      {
+        "Id": 4,
+        "Text": "Butter",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Id": 10,
+    "Category": "$1 000",
+    "Text": "Which part of the body are you most likely to \"stub\"?",
+    "Answers": [
+      {
+        "Id": 1,
+        "Text": "Toe",
+        "IsCorrect": true
+      },
+      {
+        "Id": 2,
+        "Text": "Knee",
+        "IsCorrect": false
+      },
+      {
+        "Id": 3,
+        "Text": "Elbow",
+        "IsCorrect": false
+      },
+      {
+        "Id": 4,
+        "Text": "Brain",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Id": 11,
+    "Category": "$1 000",
+    "Text": "What is commonly known as the \"Emerald City\" in the United States?",
+    "Answers": [
+      {
+        "Id": 1,
+        "Text": "Seattle, WA",
+        "IsCorrect": true
+      },
+      {
+        "Id": 2,
+        "Text": "Palos Verdes, CA",
+        "IsCorrect": false
+      },
+      {
+        "Id": 3,
+        "Text": "New York, NY",
+        "IsCorrect": false
+      },
+      {
+        "Id": 4,
+        "Text": "Dallas, TX",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Id": 12,
+    "Category": "$1 000",
+    "Text": "In which of these household appliances would you find a lint screen?",
+    "Answers": [
+      {
+        "Id": 1,
+        "Text": "Clothes dryer",
+        "IsCorrect": true
+      },
+      {
+        "Id": 2,
+        "Text": "Dishwasher",
+        "IsCorrect": false
+      },
+      {
+        "Id": 3,
+        "Text": "Microwave oven",
+        "IsCorrect": false
+      },
+      {
+        "Id": 4,
+        "Text": "Trash compactor",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Id": 13,
+    "Category": "$1 000",
+    "Text": "The EPA urges people to produce less waste by engaging in efforts to reduce, reuse and what?",
+    "Answers": [
+      {
+        "Id": 1,
+        "Text": "Recycle",
+        "IsCorrect": true
+      },
+      {
+        "Id": 2,
+        "Text": "Rewrap",
+        "IsCorrect": false
+      },
+      {
+        "Id": 3,
+        "Text": "Repossess",
+        "IsCorrect": false
+      },
+      {
+        "Id": 4,
+        "Text": "Retire",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Id": 14,
+    "Category": "$1 000",
+    "Text": "What are the three primary colors?",
+    "Answers": [
+      {
+        "Id": 1,
+        "Text": "Red, green, blue",
+        "IsCorrect": true
+      },
+      {
+        "Id": 2,
+        "Text": "Magenta, pink, cyan",
+        "IsCorrect": false
+      },
+      {
+        "Id": 3,
+        "Text": "Yellow, salmon, brown",
+        "IsCorrect": false
+      },
+      {
+        "Id": 4,
+        "Text": "White, grey, black",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Id": 15,
+    "Category": "$1 000",
+    "Text": "What is the national emblem of Canada?",
+    "Answers": [
+      {
+        "Id": 1,
+        "Text": "Maple Leaf",
+        "IsCorrect": true
+      },
+      {
+        "Id": 2,
+        "Text": "Brown Bear",
+        "IsCorrect": false
+      },
+      {
+        "Id": 3,
+        "Text": "Maple Syrup",
+        "IsCorrect": false
+      },
+      {
+        "Id": 4,
+        "Text": "Waffle",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Id": 16,
+    "Category": "$1 000",
+    "Text": "Which country is largest by area?",
+    "Answers": [
+      {
+        "Id": 1,
+        "Text": "Russia",
+        "IsCorrect": true
+      },
+      {
+        "Id": 2,
+        "Text": "Australia",
+        "IsCorrect": false
+      },
+      {
+        "Id": 3,
+        "Text": "USA",
+        "IsCorrect": false
+      },
+      {
+        "Id": 4,
+        "Text": "China",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Id": 17,
+    "Category": "$2 000",
+    "Text": "Which state in the United States is largest by area?",
+    "Answers": [
+      {
+        "Id": 1,
+        "Text": "Alaska",
+        "IsCorrect": true
+      },
+      {
+        "Id": 2,
+        "Text": "California",
+        "IsCorrect": false
+      },
+      {
+        "Id": 3,
+        "Text": "Hawaii",
+        "IsCorrect": false
+      },
+      {
+        "Id": 4,
+        "Text": "Texas",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Id": 18,
+    "Category": "$2 000",
+    "Text": "What does the \"F\" stand for in FBI?",
+    "Answers": [
+      {
+        "Id": 1,
+        "Text": "Federal",
+        "IsCorrect": true
+      },
+      {
+        "Id": 2,
+        "Text": "Foreign",
+        "IsCorrect": false
+      },
+      {
+        "Id": 3,
+        "Text": "Flappy",
+        "IsCorrect": false
+      },
+      {
+        "Id": 4,
+        "Text": "Founded",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Id": 19,
+    "Category": "$2 000",
+    "Text": "What is the name of the largest freshwater lake in the world?",
+    "Answers": [
+      {
+        "Id": 1,
+        "Text": "Lake Union",
+        "IsCorrect": true
+      },
+      {
+        "Id": 2,
+        "Text": "Lake Superior",
+        "IsCorrect": false
+      },
+      {
+        "Id": 3,
+        "Text": "Lake Largest",
+        "IsCorrect": false
+      },
+      {
+        "Id": 4,
+        "Text": "Lake Goodwin",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Id": 20,
+    "Category": "$2 000",
+    "Text": "In aviation, what does UFO stand for?",
+    "Answers": [
+      {
+        "Id": 1,
+        "Text": "Unidentified Flying Object",
+        "IsCorrect": true
+      },
+      {
+        "Id": 2,
+        "Text": "Unified Flying Object",
+        "IsCorrect": false
+      },
+      {
+        "Id": 3,
+        "Text": "Unitary Flinging Obsession",
+        "IsCorrect": false
+      },
+      {
+        "Id": 4,
+        "Text": "United Flag Opposition",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Id": 21,
+    "Category": "$2 000",
+    "Text": "What is the second most common gas in the air?",
+    "Answers": [
+      {
+        "Id": 1,
+        "Text": "Oxygen",
+        "IsCorrect": true
+      },
+      {
+        "Id": 2,
+        "Text": "Nitrogen",
+        "IsCorrect": false
+      },
+      {
+        "Id": 3,
+        "Text": "Hydrogen",
+        "IsCorrect": false
+      },
+      {
+        "Id": 4,
+        "Text": "Helium",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Id": 22,
+    "Category": "$2 000",
+    "Text": "Which month has only 28 days (unless it's a leap year)?",
+    "Answers": [
+      {
+        "Id": 1,
+        "Text": "Feburary",
+        "IsCorrect": true
+      },
+      {
+        "Id": 2,
+        "Text": "March",
+        "IsCorrect": false
+      },
+      {
+        "Id": 3,
+        "Text": "September",
+        "IsCorrect": false
+      },
+      {
+        "Id": 4,
+        "Text": "June",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Id": 23,
+    "Category": "$2 000",
+    "Text": "Ecology deals with",
+    "Answers": [
+      {
+        "Id": 1,
+        "Text": "Relation between organisms and their environment",
+        "IsCorrect": true
+      },
+      {
+        "Id": 2,
+        "Text": "Tissues",
+        "IsCorrect": false
+      },
+      {
+        "Id": 3,
+        "Text": "Cell formation",
+        "IsCorrect": false
+      },
+      {
+        "Id": 4,
+        "Text": "Birds",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Id": 24,
+    "Category": "$2 000",
+    "Text": "The US declared war on which country after the bombing of Pearl Harbor?",
+    "Answers": [
+      {
+        "Id": 1,
+        "Text": "Japan",
+        "IsCorrect": true
+      },
+      {
+        "Id": 2,
+        "Text": "Soviet Union",
+        "IsCorrect": false
+      },
+      {
+        "Id": 3,
+        "Text": "Germany",
+        "IsCorrect": false
+      },
+      {
+        "Id": 4,
+        "Text": "Italy",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Id": 25,
+    "Category": "$5 000",
+    "Text": "What is Aurora Borealis commonly known as?",
+    "Answers": [
+      {
+        "Id": 1,
+        "Text": "Northern Lights",
+        "IsCorrect": true
+      },
+      {
+        "Id": 2,
+        "Text": "Fairy Dust",
+        "IsCorrect": false
+      },
+      {
+        "Id": 3,
+        "Text": "Book of ages",
+        "IsCorrect": false
+      },
+      {
+        "Id": 4,
+        "Text": "a Game of Thrones main character",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Id": 26,
+    "Category": "$5 000",
+    "Text": "Galileo was an Italian astronomer who",
+    "Answers": [
+      {
+        "Id": 1,
+        "Text": "All of the above",
+        "IsCorrect": true
+      },
+      {
+        "Id": 2,
+        "Text": "developed the telescope",
+        "IsCorrect": false
+      },
+      {
+        "Id": 3,
+        "Text": "discovered four satellites of Jupiter",
+        "IsCorrect": false
+      },
+      {
+        "Id": 4,
+        "Text": "discovered that the movement of pendulum produces a regular time measurement",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Id": 27,
+    "Category": "$5 000",
+    "Text": "A guarantee to an exporter that the importer of his goods will pay immediately for the goods ordered by him, is known as",
+    "Answers": [
+      {
+        "Id": 1,
+        "Text": "Letter of Credit (L/C)",
+        "IsCorrect": true
+      },
+      {
+        "Id": 2,
+        "Text": "laissezfaire",
+        "IsCorrect": false
+      },
+      {
+        "Id": 3,
+        "Text": "inflation",
+        "IsCorrect": false
+      },
+      {
+        "Id": 4,
+        "Text": "None of the above",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Id": 28,
+    "Category": "$5 000",
+    "Text": "The escape velocity of a rocket fired from the earth towards the moon is the velocity required to overcome",
+    "Answers": [
+      {
+        "Id": 1,
+        "Text": "Earth's gravitational pull",
+        "IsCorrect": true
+      },
+      {
+        "Id": 2,
+        "Text": "Moon's gravitational pull",
+        "IsCorrect": false
+      },
+      {
+        "Id": 3,
+        "Text": "Centripetal force due to the earth's rotation",
+        "IsCorrect": false
+      },
+      {
+        "Id": 4,
+        "Text": "Pressure of the atmosphere",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Id": 29,
+    "Category": "$5 000",
+    "Text": "For safety, the fuse wire used in the mains for household supply of electricity must be made of metal having",
+    "Answers": [
+      {
+        "Id": 1,
+        "Text": "low melting point",
+        "IsCorrect": true
+      },
+      {
+        "Id": 2,
+        "Text": "high resistance",
+        "IsCorrect": false
+      },
+      {
+        "Id": 3,
+        "Text": "high melting point",
+        "IsCorrect": false
+      },
+      {
+        "Id": 4,
+        "Text": "low specific heat",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Id": 30,
+    "Category": "$5 000",
+    "Text": "Pythagoras was first to ____ the universal validity of geometrical theorem.",
+    "Answers": [
+      {
+        "Id": 1,
+        "Text": "prove",
+        "IsCorrect": true
+      },
+      {
+        "Id": 2,
+        "Text": "give",
+        "IsCorrect": false
+      },
+      {
+        "Id": 3,
+        "Text": "both",
+        "IsCorrect": false
+      },
+      {
+        "Id": 4,
+        "Text": "None of the above",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Id": 31,
+    "Category": "$5 000",
+    "Text": "Recession is",
+    "Answers": [
+      {
+        "Id": 1,
+        "Text": "All of them",
+        "IsCorrect": true
+      },
+      {
+        "Id": 2,
+        "Text": "slowing down of economic activity over a limited period",
+        "IsCorrect": false
+      },
+      {
+        "Id": 3,
+        "Text": "period during which unemployment may rise and demand and output may fall, leading to slump in trade",
+        "IsCorrect": false
+      },
+      {
+        "Id": 4,
+        "Text": "period that results from accumulation of unsold goods, owing to fall in demand",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Id": 32,
+    "Category": "$5 000",
+    "Text": "Leonardo da Vinci",
+    "Answers": [
+      {
+        "Id": 1,
+        "Text": "All of them",
+        "IsCorrect": true
+      },
+      {
+        "Id": 2,
+        "Text": "got universal fame form his masterpiece \"Mona lisa\"",
+        "IsCorrect": false
+      },
+      {
+        "Id": 3,
+        "Text": "was a great Italian painter, sculptor and architect",
+        "IsCorrect": false
+      },
+      {
+        "Id": 4,
+        "Text": "drew models of organs such as the heart, lungs and womb",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Id": 33,
+    "Category": "$10 000",
+    "Text": "The ozone layer restricts",
+    "Answers": [
+      {
+        "Id": 1,
+        "Text": "Ultraviolet radiation",
+        "IsCorrect": true
+      },
+      {
+        "Id": 2,
+        "Text": "Visible light",
+        "IsCorrect": false
+      },
+      {
+        "Id": 3,
+        "Text": "Infrared radiation",
+        "IsCorrect": false
+      },
+      {
+        "Id": 4,
+        "Text": "X-rays and gamma rays",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Id": 34,
+    "Category": "$10 000",
+    "Text": "Exposure to sunlight helps a person improve his health because",
+    "Answers": [
+      {
+        "Id": 1,
+        "Text": "the ultraviolet rays convert skin oil into Vitamin D",
+        "IsCorrect": true
+      },
+      {
+        "Id": 2,
+        "Text": "the infrared light kills bacteria in the body",
+        "IsCorrect": false
+      },
+      {
+        "Id": 3,
+        "Text": "resistance power increases",
+        "IsCorrect": false
+      },
+      {
+        "Id": 4,
+        "Text": "the pigment cells in the skin get stimulated and produce a healthy tan",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Id": 35,
+    "Category": "$10 000",
+    "Text": "The American General who led the revolt against the British and declared American independence was",
+    "Answers": [
+      {
+        "Id": 1,
+        "Text": "George Washington",
+        "IsCorrect": true
+      },
+      {
+        "Id": 2,
+        "Text": "Benjamin Franklin",
+        "IsCorrect": false
+      },
+      {
+        "Id": 3,
+        "Text": "None of them",
+        "IsCorrect": false
+      },
+      {
+        "Id": 4,
+        "Text": "John Tyler",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Id": 36,
+    "Category": "$10 000",
+    "Text": "Guwahati High Court is the judicature of",
+    "Answers": [
+      {
+        "Id": 1,
+        "Text": "All of the above",
+        "IsCorrect": true
+      },
+      {
+        "Id": 2,
+        "Text": "Nagaland",
+        "IsCorrect": false
+      },
+      {
+        "Id": 3,
+        "Text": "Arunachal Pradesh",
+        "IsCorrect": false
+      },
+      {
+        "Id": 4,
+        "Text": "Assam",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Id": 37,
+    "Category": "$10 000",
+    "Text": "Hamid Karzai was chosen president of Afghanistan in",
+    "Answers": [
+      {
+        "Id": 1,
+        "Text": "2002",
+        "IsCorrect": true
+      },
+      {
+        "Id": 2,
+        "Text": "2000",
+        "IsCorrect": false
+      },
+      {
+        "Id": 3,
+        "Text": "1995",
+        "IsCorrect": false
+      },
+      {
+        "Id": 4,
+        "Text": "2008",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Id": 38,
+    "Category": "$10 000",
+    "Text": "Sir Thomas Fearnley Cup is awarded to",
+    "Answers": [
+      {
+        "Id": 1,
+        "Text": "a club or a local sport association for remarkable achievements",
+        "IsCorrect": true
+      },
+      {
+        "Id": 2,
+        "Text": "amateur athlete, not necessarily an Olympian",
+        "IsCorrect": false
+      },
+      {
+        "Id": 3,
+        "Text": "National Olympic Committee for outstanding work",
+        "IsCorrect": false
+      },
+      {
+        "Id": 4,
+        "Text": "a company for promotion of sport",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Id": 39,
+    "Category": "$10 000",
+    "Text": "Fa-Hien was",
+    "Answers": [
+      {
+        "Id": 1,
+        "Text": "the first Buddhist pilgrim of China to visit India during the reign of Chandragupta Vikramaditya",
+        "IsCorrect": true
+      },
+      {
+        "Id": 2,
+        "Text": "the discoverer of Puerto Rico and Jamaica",
+        "IsCorrect": false
+      },
+      {
+        "Id": 3,
+        "Text": "the first Buddhist pilgrim of India to visit China",
+        "IsCorrect": false
+      },
+      {
+        "Id": 4,
+        "Text": "None of the above",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Id": 40,
+    "Category": "$10 000",
+    "Text": "What was the first university in the United States",
+    "Answers": [
+      {
+        "Id": 1,
+        "Text": "Harvard",
+        "IsCorrect": true
+      },
+      {
+        "Id": 2,
+        "Text": "University of Washington",
+        "IsCorrect": false
+      },
+      {
+        "Id": 3,
+        "Text": "Yale",
+        "IsCorrect": false
+      },
+      {
+        "Id": 4,
+        "Text": "Oxford",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Id": 41,
+    "Category": "$20 000",
+    "Text": "Oscar Awards were instituted in",
+    "Answers": [
+      {
+        "Id": 1,
+        "Text": "1929",
+        "IsCorrect": true
+      },
+      {
+        "Id": 2,
+        "Text": "1949",
+        "IsCorrect": false
+      },
+      {
+        "Id": 3,
+        "Text": "1901",
+        "IsCorrect": false
+      },
+      {
+        "Id": 4,
+        "Text": "1920",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Id": 42,
+    "Category": "$20 000",
+    "Text": "An electron volt is",
+    "Answers": [
+      {
+        "Id": 1,
+        "Text": "The amount of energy it takes to move an electron through a potential difference of 1 volt",
+        "IsCorrect": true
+      },
+      {
+        "Id": 2,
+        "Text": "The number of volts it takes to move an electon a meter",
+        "IsCorrect": false
+      },
+      {
+        "Id": 3,
+        "Text": "The number of electrons it takes to kill a human being",
+        "IsCorrect": false
+      },
+      {
+        "Id": 4,
+        "Text": "The flux of current through a surface parallel to a capacitor",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Id": 43,
+    "Category": "$20 000",
+    "Text": "The headquarters of UN are situated at",
+    "Answers": [
+      {
+        "Id": 1,
+        "Text": "New York, USA",
+        "IsCorrect": true
+      },
+      {
+        "Id": 2,
+        "Text": "Haque (Netherlands)",
+        "IsCorrect": false
+      },
+      {
+        "Id": 3,
+        "Text": "Geneva",
+        "IsCorrect": false
+      },
+      {
+        "Id": 4,
+        "Text": "Paris",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Id": 44,
+    "Category": "$20 000",
+    "Text": "Heavy Water Project (Talcher) and Fertilizer plant (Paradeep) are famous industries of",
+    "Answers": [
+      {
+        "Id": 1,
+        "Text": "Orissa",
+        "IsCorrect": true
+      },
+      {
+        "Id": 2,
+        "Text": "Tamil nadu",
+        "IsCorrect": false
+      },
+      {
+        "Id": 3,
+        "Text": "Andhra Pradesh",
+        "IsCorrect": false
+      },
+      {
+        "Id": 4,
+        "Text": "Kerala",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Id": 45,
+    "Category": "$20 000",
+    "Text": "Who is the author of the famous quote 'Good to see only with the heart. The most important is invisible for eyes'?",
+    "Answers": [
+      {
+        "Id": 1,
+        "Text": "Antoine de Saint-Exupéry",
+        "IsCorrect": true
+      },
+      {
+        "Id": 2,
+        "Text": "Michail Bulhakow",
+        "IsCorrect": false
+      },
+      {
+        "Id": 3,
+        "Text": "Paulo Coelho",
+        "IsCorrect": false
+      },
+      {
+        "Id": 4,
+        "Text": "Ghandi",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Id": 46,
+    "Category": "$20 000",
+    "Text": "The lion killed by Ramon Mercader it is?",
+    "Answers": [
+      {
+        "Id": 1,
+        "Text": "Trocky",
+        "IsCorrect": true
+      },
+      {
+        "Id": 2,
+        "Text": "Simba",
+        "IsCorrect": false
+      },
+      {
+        "Id": 3,
+        "Text": "Mufasa",
+        "IsCorrect": false
+      },
+      {
+        "Id": 4,
+        "Text": "Tolstoy",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Id": 47,
+    "Category": "$20 000",
+    "Text": "When and where was weightlifting introduced in Olympics?",
+    "Answers": [
+      {
+        "Id": 1,
+        "Text": "1986 at Athens",
+        "IsCorrect": true
+      },
+      {
+        "Id": 2,
+        "Text": "1988 at Seoul",
+        "IsCorrect": false
+      },
+      {
+        "Id": 3,
+        "Text": "1924 at St. Louis",
+        "IsCorrect": false
+      },
+      {
+        "Id": 4,
+        "Text": "1908 at London",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Id": 48,
+    "Category": "$20 000",
+    "Text": "Garampani sanctuary is located at",
+    "Answers": [
+      {
+        "Id": 1,
+        "Text": "Diphu, Assam",
+        "IsCorrect": true
+      },
+      {
+        "Id": 2,
+        "Text": "Junagarh, Gujarat",
+        "IsCorrect": false
+      },
+      {
+        "Id": 3,
+        "Text": "Kohima, Nagaland",
+        "IsCorrect": false
+      },
+      {
+        "Id": 4,
+        "Text": "Gangtok, Sikkim",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Id": 49,
+    "Category": "$50 000",
+    "Text": "The Habeas Corpus Act of 1679",
+    "Answers": [
+      {
+        "Id": 1,
+        "Text": "All of the above",
+        "IsCorrect": true
+      },
+      {
+        "Id": 2,
+        "Text": "states that no one was to be imprisoned without a writ or warrant stating the charge against him",
+        "IsCorrect": false
+      },
+      {
+        "Id": 3,
+        "Text": "provided facilities to a prisoner to obtain either speedy trial or release in bail",
+        "IsCorrect": false
+      },
+      {
+        "Id": 4,
+        "Text": "safeguarded the personal liberties of the people against arbitrary imprisonment by the king's orders",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Id": 50,
+    "Category": "$50 000",
+    "Text": "When a given amount of air is cooled",
+    "Answers": [
+      {
+        "Id": 1,
+        "Text": "the amount of moisture it can hold decreases",
+        "IsCorrect": true
+      },
+      {
+        "Id": 2,
+        "Text": "its absolute humidity decreases",
+        "IsCorrect": false
+      },
+      {
+        "Id": 3,
+        "Text": "its relative humidity remains constant",
+        "IsCorrect": false
+      },
+      {
+        "Id": 4,
+        "Text": "its absolute humidity increases",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Id": 51,
+    "Category": "$50 000",
+    "Text": "When a moving bus stops suddenly, the passenger are pushed forward because of the",
+    "Answers": [
+      {
+        "Id": 1,
+        "Text": "inertia of the passengers",
+        "IsCorrect": true
+      },
+      {
+        "Id": 2,
+        "Text": "friction between the earth and the bus",
+        "IsCorrect": false
+      },
+      {
+        "Id": 3,
+        "Text": "friction between the passengers and the earth",
+        "IsCorrect": false
+      },
+      {
+        "Id": 4,
+        "Text": "inertia of the bus",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Id": 52,
+    "Category": "$50 000",
+    "Text": "When is the World's Diabetes Day?",
+    "Answers": [
+      {
+        "Id": 1,
+        "Text": "14th November",
+        "IsCorrect": true
+      },
+      {
+        "Id": 2,
+        "Text": "11th December",
+        "IsCorrect": false
+      },
+      {
+        "Id": 3,
+        "Text": "15th October",
+        "IsCorrect": false
+      },
+      {
+        "Id": 4,
+        "Text": "1st July",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Id": 53,
+    "Category": "$50 000",
+    "Text": "When did Margaret Thatcher became the first female Prime Minister of Britain?",
+    "Answers": [
+      {
+        "Id": 1,
+        "Text": "1979",
+        "IsCorrect": true
+      },
+      {
+        "Id": 2,
+        "Text": "1998",
+        "IsCorrect": false
+      },
+      {
+        "Id": 3,
+        "Text": "1989",
+        "IsCorrect": false
+      },
+      {
+        "Id": 4,
+        "Text": "1975",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Id": 54,
+    "Category": "$50 000",
+    "Text": "What is the S.I. unit of temperature?",
+    "Answers": [
+      {
+        "Id": 1,
+        "Text": "Kelvin",
+        "IsCorrect": true
+      },
+      {
+        "Id": 2,
+        "Text": "Celsius",
+        "IsCorrect": false
+      },
+      {
+        "Id": 3,
+        "Text": "Centigrade",
+        "IsCorrect": false
+      },
+      {
+        "Id": 4,
+        "Text": "Fahrenheit",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Id": 55,
+    "Category": "$50 000",
+    "Text": "When and where was hockey introduced for women in Olympics?",
+    "Answers": [
+      {
+        "Id": 1,
+        "Text": "1980 at Moscow",
+        "IsCorrect": true
+      },
+      {
+        "Id": 2,
+        "Text": "1908 at London",
+        "IsCorrect": false
+      },
+      {
+        "Id": 3,
+        "Text": "1936 at Berlin",
+        "IsCorrect": false
+      },
+      {
+        "Id": 4,
+        "Text": "1924 at Paris",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Id": 56,
+    "Category": "$50 000",
+    "Text": "When did France became Republic?",
+    "Answers": [
+      {
+        "Id": 1,
+        "Text": "1792 AD",
+        "IsCorrect": true
+      },
+      {
+        "Id": 2,
+        "Text": "1789 AD",
+        "IsCorrect": false
+      },
+      {
+        "Id": 3,
+        "Text": "1798 AD",
+        "IsCorrect": false
+      },
+      {
+        "Id": 4,
+        "Text": "1729 AD",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Id": 57,
+    "Category": "$75 000",
+    "Text": "When did Yuri Alekseyevich Gagaris of Russia, the first man to reach space, reach space?",
+    "Answers": [
+      {
+        "Id": 1,
+        "Text": "1961",
+        "IsCorrect": true
+      },
+      {
+        "Id": 2,
+        "Text": "1960",
+        "IsCorrect": false
+      },
+      {
+        "Id": 3,
+        "Text": "1962",
+        "IsCorrect": false
+      },
+      {
+        "Id": 4,
+        "Text": "1963",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Id": 58,
+    "Category": "$75 000",
+    "Text": "What are the dimensions of A4 paper?",
+    "Answers": [
+      {
+        "Id": 1,
+        "Text": "8.3\" x 11.7\"",
+        "IsCorrect": true
+      },
+      {
+        "Id": 2,
+        "Text": "8.5\" x 11\"",
+        "IsCorrect": false
+      },
+      {
+        "Id": 3,
+        "Text": "30cm x 50cm",
+        "IsCorrect": false
+      },
+      {
+        "Id": 4,
+        "Text": "8.5\" x 14\"",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Id": 59,
+    "Category": "$75 000",
+    "Text": "Of the blood groups A, B, AB and O, which one is transfused into a person whose blood group is A?",
+    "Answers": [
+      {
+        "Id": 1,
+        "Text": "Group A and O",
+        "IsCorrect": true
+      },
+      {
+        "Id": 2,
+        "Text": "Group A only",
+        "IsCorrect": false
+      },
+      {
+        "Id": 3,
+        "Text": "Group B only",
+        "IsCorrect": false
+      },
+      {
+        "Id": 4,
+        "Text": "Group AB only",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Id": 60,
+    "Category": "$75 000",
+    "Text": "Lime is sometimes applied to soil in order to",
+    "Answers": [
+      {
+        "Id": 1,
+        "Text": "increase the alkalinity of the soil",
+        "IsCorrect": true
+      },
+      {
+        "Id": 2,
+        "Text": "increase the acidity of the soil",
+        "IsCorrect": false
+      },
+      {
+        "Id": 3,
+        "Text": "restore nitrates to the soil",
+        "IsCorrect": false
+      },
+      {
+        "Id": 4,
+        "Text": "make the soil more porous",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Id": 61,
+    "Category": "$75 000",
+    "Text": "When did US astronauts Neil Armstrong and Edwin E. Aldrin land on the moon?",
+    "Answers": [
+      {
+        "Id": 1,
+        "Text": "July 21, 1969",
+        "IsCorrect": true
+      },
+      {
+        "Id": 2,
+        "Text": "July 21, 1970",
+        "IsCorrect": false
+      },
+      {
+        "Id": 3,
+        "Text": "July 21, 1963",
+        "IsCorrect": false
+      },
+      {
+        "Id": 4,
+        "Text": "June 21, 1969",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Id": 62,
+    "Category": "$75 000",
+    "Text": "When cream is separated from milk",
+    "Answers": [
+      {
+        "Id": 1,
+        "Text": "the density of milk increases",
+        "IsCorrect": true
+      },
+      {
+        "Id": 2,
+        "Text": "the density of milk decreases",
+        "IsCorrect": false
+      },
+      {
+        "Id": 3,
+        "Text": "the density of milk remains unchanged",
+        "IsCorrect": false
+      },
+      {
+        "Id": 4,
+        "Text": "it becomes more viscous",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Id": 63,
+    "Category": "$75 000",
+    "Text": "Marco Polo",
+    "Answers": [
+      {
+        "Id": 1,
+        "Text": "travelled through China, India and other parts of Asia",
+        "IsCorrect": true
+      },
+      {
+        "Id": 2,
+        "Text": "discovered Greenland",
+        "IsCorrect": false
+      },
+      {
+        "Id": 3,
+        "Text": "travelled round the cape of Good Hope",
+        "IsCorrect": false
+      },
+      {
+        "Id": 4,
+        "Text": "discovered Canada",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Id": 64,
+    "Category": "$75 000",
+    "Text": "When is the International Workers' Day?",
+    "Answers": [
+      {
+        "Id": 1,
+        "Text": "1st May",
+        "IsCorrect": true
+      },
+      {
+        "Id": 2,
+        "Text": "15th April",
+        "IsCorrect": false
+      },
+      {
+        "Id": 3,
+        "Text": "12th December",
+        "IsCorrect": false
+      },
+      {
+        "Id": 4,
+        "Text": "1st August",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Id": 65,
+    "Category": "$150 000",
+    "Text": "When did China test their first atomic device?",
+    "Answers": [
+      {
+        "Id": 1,
+        "Text": "1964",
+        "IsCorrect": true
+      },
+      {
+        "Id": 2,
+        "Text": "1962",
+        "IsCorrect": false
+      },
+      {
+        "Id": 3,
+        "Text": "1963",
+        "IsCorrect": false
+      },
+      {
+        "Id": 4,
+        "Text": "1965",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Id": 66,
+    "Category": "$150 000",
+    "Text": "When did Commander Robert Peary discover the North Pole?",
+    "Answers": [
+      {
+        "Id": 1,
+        "Text": "1909",
+        "IsCorrect": true
+      },
+      {
+        "Id": 2,
+        "Text": "1908",
+        "IsCorrect": false
+      },
+      {
+        "Id": 3,
+        "Text": "1904",
+        "IsCorrect": false
+      },
+      {
+        "Id": 4,
+        "Text": "1905",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Id": 67,
+    "Category": "$150 000",
+    "Text": "Numismatics is the study of",
+    "Answers": [
+      {
+        "Id": 1,
+        "Text": "coins",
+        "IsCorrect": true
+      },
+      {
+        "Id": 2,
+        "Text": "numbers",
+        "IsCorrect": false
+      },
+      {
+        "Id": 3,
+        "Text": "stamps",
+        "IsCorrect": false
+      },
+      {
+        "Id": 4,
+        "Text": "bank notes",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Id": 68,
+    "Category": "$150 000",
+    "Text": "Karl Marx's ideology advocated",
+    "Answers": [
+      {
+        "Id": 1,
+        "Text": "a classed society",
+        "IsCorrect": true
+      },
+      {
+        "Id": 2,
+        "Text": "a classed unique society",
+        "IsCorrect": false
+      },
+      {
+        "Id": 3,
+        "Text": "a united society",
+        "IsCorrect": false
+      },
+      {
+        "Id": 4,
+        "Text": "None of the above",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Id": 69,
+    "Category": "$150 000",
+    "Text": "Light Year is related to",
+    "Answers": [
+      {
+        "Id": 1,
+        "Text": "distance",
+        "IsCorrect": true
+      },
+      {
+        "Id": 2,
+        "Text": "energy",
+        "IsCorrect": false
+      },
+      {
+        "Id": 3,
+        "Text": "speed",
+        "IsCorrect": false
+      },
+      {
+        "Id": 4,
+        "Text": "intensity",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Id": 70,
+    "Category": "$150 000",
+    "Text": "Which of these African countries is situated south of the equator?",
+    "Answers": [
+      {
+        "Id": 1,
+        "Text": "Zambia",
+        "IsCorrect": true
+      },
+      {
+        "Id": 2,
+        "Text": "Ethiopia",
+        "IsCorrect": false
+      },
+      {
+        "Id": 3,
+        "Text": "Nigeria",
+        "IsCorrect": false
+      },
+      {
+        "Id": 4,
+        "Text": "Chad",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Id": 71,
+    "Category": "$150 000",
+    "Text": "What is the population density of Kerala?",
+    "Answers": [
+      {
+        "Id": 1,
+        "Text": "819/sq. km",
+        "IsCorrect": true
+      },
+      {
+        "Id": 2,
+        "Text": "602/sq. km",
+        "IsCorrect": false
+      },
+      {
+        "Id": 3,
+        "Text": "415/sq. km",
+        "IsCorrect": false
+      },
+      {
+        "Id": 4,
+        "Text": "500/sq. km",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Id": 72,
+    "Category": "$150 000",
+    "Text": "What is the range of missile 'Akash'?",
+    "Answers": [
+      {
+        "Id": 1,
+        "Text": "25 km",
+        "IsCorrect": true
+      },
+      {
+        "Id": 2,
+        "Text": "4 km",
+        "IsCorrect": false
+      },
+      {
+        "Id": 3,
+        "Text": "500 m to 9 km",
+        "IsCorrect": false
+      },
+      {
+        "Id": 4,
+        "Text": "150 km",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Id": 73,
+    "Category": "$250 000",
+    "Text": "What amount of RAM was the first SEGA SG-1000 console equipped with?",
+    "Answers": [
+      {
+        "Id": 1,
+        "Text": "1 KB",
+        "IsCorrect": true
+      },
+      {
+        "Id": 2,
+        "Text": "16 KB",
+        "IsCorrect": false
+      },
+      {
+        "Id": 3,
+        "Text": "32 KB",
+        "IsCorrect": false
+      },
+      {
+        "Id": 4,
+        "Text": "1 MB",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Id": 74,
+    "Category": "$250 000",
+    "Text": "Rizi-bizi is a dish that comes from the kitchen ?",
+    "Answers": [
+      {
+        "Id": 1,
+        "Text": "italian",
+        "IsCorrect": true
+      },
+      {
+        "Id": 2,
+        "Text": "spanish",
+        "IsCorrect": false
+      },
+      {
+        "Id": 3,
+        "Text": "french",
+        "IsCorrect": false
+      },
+      {
+        "Id": 4,
+        "Text": "thai",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Id": 75,
+    "Category": "$250 000",
+    "Text": "The galaxy NGC 1286 in the constellation of Eridanus is an example of a galaxy ?",
+    "Answers": [
+      {
+        "Id": 1,
+        "Text": "lenticular",
+        "IsCorrect": true
+      },
+      {
+        "Id": 2,
+        "Text": "elliptical",
+        "IsCorrect": false
+      },
+      {
+        "Id": 3,
+        "Text": "spiral",
+        "IsCorrect": false
+      },
+      {
+        "Id": 4,
+        "Text": "irregular",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Id": 76,
+    "Category": "$250 000",
+    "Text": "Which Oasis album is called 'Heathen Chemistry' in order of release?",
+    "Answers": [
+      {
+        "Id": 1,
+        "Text": "fifth",
+        "IsCorrect": true
+      },
+      {
+        "Id": 2,
+        "Text": "first",
+        "IsCorrect": false
+      },
+      {
+        "Id": 3,
+        "Text": "fourth",
+        "IsCorrect": false
+      },
+      {
+        "Id": 4,
+        "Text": "second",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Id": 77,
+    "Category": "$250 000",
+    "Text": "Which of the following is not part of the 'Ten Life Factors' of one of the foundational teachings of the Chinese Tiantai School of Buddhism?",
+    "Answers": [
+      {
+        "Id": 1,
+        "Text": "ambition",
+        "IsCorrect": true
+      },
+      {
+        "Id": 2,
+        "Text": "appearance",
+        "IsCorrect": false
+      },
+      {
+        "Id": 3,
+        "Text": "nature",
+        "IsCorrect": false
+      },
+      {
+        "Id": 4,
+        "Text": "latent effect",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Id": 78,
+    "Category": "$250 000",
+    "Text": "When did 19 NATO members and 11 'Partners for Peace' join hands for peace plan for Kosovo Crisis?",
+    "Answers": [
+      {
+        "Id": 1,
+        "Text": "1999",
+        "IsCorrect": true
+      },
+      {
+        "Id": 2,
+        "Text": "1989",
+        "IsCorrect": false
+      },
+      {
+        "Id": 3,
+        "Text": "2004",
+        "IsCorrect": false
+      },
+      {
+        "Id": 4,
+        "Text": "2000",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Id": 79,
+    "Category": "$250 000",
+    "Text": "Guajiro Indians are the indigenous people of the peninsula located in",
+    "Answers": [
+      {
+        "Id": 1,
+        "Text": "Venezuela",
+        "IsCorrect": true
+      },
+      {
+        "Id": 2,
+        "Text": "Mexico",
+        "IsCorrect": false
+      },
+      {
+        "Id": 3,
+        "Text": "Columbia",
+        "IsCorrect": false
+      },
+      {
+        "Id": 4,
+        "Text": "Brasil",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Id": 80,
+    "Category": "$250 000",
+    "Text": "Which of the noble gases has the largest atomic radius?",
+    "Answers": [
+      {
+        "Id": 1,
+        "Text": "Radon",
+        "IsCorrect": true
+      },
+      {
+        "Id": 2,
+        "Text": "Helium",
+        "IsCorrect": false
+      },
+      {
+        "Id": 3,
+        "Text": "Xenon",
+        "IsCorrect": false
+      },
+      {
+        "Id": 4,
+        "Text": "Krypton",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Id": 81,
+    "Category": "$500 000",
+    "Text": "If you planted the seeds of 'Quercus robur', what would grow?",
+    "Answers": [
+      {
+        "Id": 1,
+        "Text": "Trees",
+        "IsCorrect": true
+      },
+      {
+        "Id": 2,
+        "Text": "Flowers",
+        "IsCorrect": false
+      },
+      {
+        "Id": 3,
+        "Text": "Vegetables",
+        "IsCorrect": false
+      },
+      {
+        "Id": 4,
+        "Text": "Grain",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Id": 82,
+    "Category": "$500 000",
+    "Text": "Tomas Masaryk was the first president of which country?",
+    "Answers": [
+      {
+        "Id": 1,
+        "Text": "Czechoslovakia",
+        "IsCorrect": true
+      },
+      {
+        "Id": 2,
+        "Text": "Poland",
+        "IsCorrect": false
+      },
+      {
+        "Id": 3,
+        "Text": "Yugolsavia",
+        "IsCorrect": false
+      },
+      {
+        "Id": 4,
+        "Text": "Bulgaria",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Id": 83,
+    "Category": "$500 000",
+    "Text": "In 1912, former US President Theodore Roosevelt was a candidate for which political party?",
+    "Answers": [
+      {
+        "Id": 1,
+        "Text": "Bull Moose",
+        "IsCorrect": true
+      },
+      {
+        "Id": 2,
+        "Text": "Bull Dog",
+        "IsCorrect": false
+      },
+      {
+        "Id": 3,
+        "Text": "Bull Elephant",
+        "IsCorrect": false
+      },
+      {
+        "Id": 4,
+        "Text": "Bull Frog",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Id": 84,
+    "Category": "$500 000",
+    "Text": "Oberon is the satellite of which planet?",
+    "Answers": [
+      {
+        "Id": 1,
+        "Text": "Uranus",
+        "IsCorrect": true
+      },
+      {
+        "Id": 2,
+        "Text": "Neptun",
+        "IsCorrect": false
+      },
+      {
+        "Id": 3,
+        "Text": "Mars",
+        "IsCorrect": false
+      },
+      {
+        "Id": 4,
+        "Text": "Jupiter",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Id": 85,
+    "Category": "$500 000",
+    "Text": "Which monarch was known as 'the wisest fool in Christendom'?",
+    "Answers": [
+      {
+        "Id": 1,
+        "Text": "James I",
+        "IsCorrect": true
+      },
+      {
+        "Id": 2,
+        "Text": "Charles I",
+        "IsCorrect": false
+      },
+      {
+        "Id": 3,
+        "Text": "Henry I",
+        "IsCorrect": false
+      },
+      {
+        "Id": 4,
+        "Text": "Edward I",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Id": 86,
+    "Category": "$500 000",
+    "Text": "Which county cricket side is based at Chester-le-Street?",
+    "Answers": [
+      {
+        "Id": 1,
+        "Text": "Durham",
+        "IsCorrect": true
+      },
+      {
+        "Id": 2,
+        "Text": "Warwickshire",
+        "IsCorrect": false
+      },
+      {
+        "Id": 3,
+        "Text": "Northants",
+        "IsCorrect": false
+      },
+      {
+        "Id": 4,
+        "Text": "Leicestershire",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Id": 87,
+    "Category": "$500 000",
+    "Text": "Which boxer was famous for striking the gong in the introduction to J. Arthur Rank films?",
+    "Answers": [
+      {
+        "Id": 1,
+        "Text": "Bombardier Billy Wells",
+        "IsCorrect": true
+      },
+      {
+        "Id": 2,
+        "Text": "Terry Spinks",
+        "IsCorrect": false
+      },
+      {
+        "Id": 3,
+        "Text": "Don Cockell",
+        "IsCorrect": false
+      },
+      {
+        "Id": 4,
+        "Text": "Freddie Mills",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Id": 88,
+    "Category": "$500 000",
+    "Text": "'With Everything I Feel in Me', Aretha Franklin's album released in 1974 opens with the song:",
+    "Answers": [
+      {
+        "Id": 1,
+        "Text": "Without Love",
+        "IsCorrect": true
+      },
+      {
+        "Id": 2,
+        "Text": "When You Get Right Down to It",
+        "IsCorrect": false
+      },
+      {
+        "Id": 3,
+        "Text": "With Everything I Feel in Me",
+        "IsCorrect": false
+      },
+      {
+        "Id": 4,
+        "Text": "All of These Things",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Id": 89,
+    "Category": "$1 000 000",
+    "Text": "In 1718, which pirate died in battle off the coast of what is now North Carolina?",
+    "Answers": [
+      {
+        "Id": 1,
+        "Text": "Blackbeard",
+        "IsCorrect": true
+      },
+      {
+        "Id": 2,
+        "Text": "Calico Jack",
+        "IsCorrect": false
+      },
+      {
+        "Id": 3,
+        "Text": "Bartholomew Roberts",
+        "IsCorrect": false
+      },
+      {
+        "Id": 4,
+        "Text": "Captain Kidd",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Id": 90,
+    "Category": "$1 000 000",
+    "Text": "In the history of motor sport, which of these iconic races was held first?",
+    "Answers": [
+      {
+        "Id": 1,
+        "Text": "Isle of Man TT",
+        "IsCorrect": true
+      },
+      {
+        "Id": 2,
+        "Text": "Le Mans 24 Hous",
+        "IsCorrect": false
+      },
+      {
+        "Id": 3,
+        "Text": "Monaco Grand Prix",
+        "IsCorrect": false
+      },
+      {
+        "Id": 4,
+        "Text": "Indy 500",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Id": 91,
+    "Category": "$1 000 000",
+    "Text": "Which of these people was born the same year as Queen Elizabeth II?",
+    "Answers": [
+      {
+        "Id": 1,
+        "Text": "Marylin Monroe",
+        "IsCorrect": true
+      },
+      {
+        "Id": 2,
+        "Text": "Judy Garland",
+        "IsCorrect": false
+      },
+      {
+        "Id": 3,
+        "Text": "Julie Anders",
+        "IsCorrect": false
+      },
+      {
+        "Id": 4,
+        "Text": "Audrey Hepburn",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Id": 92,
+    "Category": "$1 000 000",
+    "Text": "Which of these UK prime ministers never served as foreign secretary?",
+    "Answers": [
+      {
+        "Id": 1,
+        "Text": "Winston Churchill",
+        "IsCorrect": true
+      },
+      {
+        "Id": 2,
+        "Text": "Alex Douglas-Home",
+        "IsCorrect": false
+      },
+      {
+        "Id": 3,
+        "Text": "Anthony Eden",
+        "IsCorrect": false
+      },
+      {
+        "Id": 4,
+        "Text": "Harold Macmillan",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Id": 93,
+    "Category": "$1 000 000",
+    "Text": "Who was the first man to travel into space twice?",
+    "Answers": [
+      {
+        "Id": 1,
+        "Text": "Gus Grissom",
+        "IsCorrect": true
+      },
+      {
+        "Id": 2,
+        "Text": "Vladimir Titov",
+        "IsCorrect": false
+      },
+      {
+        "Id": 3,
+        "Text": "Michael Collins",
+        "IsCorrect": false
+      },
+      {
+        "Id": 4,
+        "Text": "Yuri Gagarin",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Id": 94,
+    "Category": "$1 000 000",
+    "Text": "Which of these is a butterfly, not a moth?",
+    "Answers": [
+      {
+        "Id": 1,
+        "Text": "Speckled Wood",
+        "IsCorrect": true
+      },
+      {
+        "Id": 2,
+        "Text": "Red Underwing",
+        "IsCorrect": false
+      },
+      {
+        "Id": 3,
+        "Text": "Burnished Brass",
+        "IsCorrect": false
+      },
+      {
+        "Id": 4,
+        "Text": "Mother Shipton",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Id": 95,
+    "Category": "$1 000 000",
+    "Text": "What was the occupation of the composer Borodin?",
+    "Answers": [
+      {
+        "Id": 1,
+        "Text": "Chemist",
+        "IsCorrect": true
+      },
+      {
+        "Id": 2,
+        "Text": "Naval Captain",
+        "IsCorrect": false
+      },
+      {
+        "Id": 3,
+        "Text": "Lawyer",
+        "IsCorrect": false
+      },
+      {
+        "Id": 4,
+        "Text": "Chef",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Id": 96,
+    "Category": "$1 000 000",
+    "Text": "Which scientific unit is named after an Italian nobleman?",
+    "Answers": [
+      {
+        "Id": 1,
+        "Text": "Volt",
+        "IsCorrect": true
+      },
+      {
+        "Id": 2,
+        "Text": "Ohm",
+        "IsCorrect": false
+      },
+      {
+        "Id": 3,
+        "Text": "Hertz",
+        "IsCorrect": false
+      },
+      {
+        "Id": 4,
+        "Text": "Pascal",
+        "IsCorrect": false
+      }
+    ]
+  }
+]
+
+
+
+
+
