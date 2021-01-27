@@ -52,20 +52,17 @@ namespace QuizBackend
         }
         public Question GetQuestion()
         {
-            Question question = new Question();
-            question.Text = "What is the name of brilliant scientiest Einstein?";
-            question.Category = "$500";
-            question.Answers = new List<Answer>();
-            for (int i = 0; i < 4; i++)
+            // get only question in a specific category (e.g. $500) using Where method (Microsoft.Linq) = it takes all elem from a list matching given criteria
+            var questionFromCurrentCategory = AllQuestions.Where(x => x.Category == CurrentCategory).ToList();
+            var number = Randomizer.GetRandomNumber(8);
+            var question = questionFromCurrentCategory[number - 1];
+            var orderNumbers = Randomizer.GetListOfRandomNumbers(4, 4);
+            for (int i = 0; i < orderNumbers.Count; i++)
             {
-                Answer answer = new Answer
-                {
-                    Id = i + 1,
-                    IsCorrect = i == 0,
-                    Text = i == 0 ? "Albert" : i == 1 ? "Anthony" : i == 2 ? "Aaron" : "Andrew"
-                };
-                question.Answers.Add(answer);
+                question.Answers[i].DisplayOrder = orderNumbers[i];
             }
+
+            question.Answers = question.Answers.OrderBy(x => x.DisplayOrder).ToList();
             return question;
         }
     }
