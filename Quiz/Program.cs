@@ -15,6 +15,21 @@ namespace Quiz
             Game game = new Game();
             var question = game.GetQuestion();
             DisplayQuestion(question);
+            string userAnswer = Console.ReadLine();
+
+            if (userAnswer == "1")
+            {
+                Console.ForegroundColor = ConsoleColor.Green;
+                Console.WriteLine("Your answer is correct. Congratulations!");
+                Console.ForegroundColor = ConsoleColor.White;
+            }
+            else
+            {
+                Console.ForegroundColor = ConsoleColor.Red;
+                Console.WriteLine("Sorry, wrong answer!");
+                Console.WriteLine("Game over!");
+            }
+
             Console.ReadLine();
         }
 
@@ -22,10 +37,13 @@ namespace Quiz
         {
             Console.WriteLine();
             Console.WriteLine(question.Text);
-            Console.WriteLine(question.Answer1);
-            Console.WriteLine(question.Answer2);
-            Console.WriteLine(question.Answer3);
-            Console.WriteLine(question.Answer4);
+            foreach (var answer in question.Answers)
+            {
+                Console.WriteLine($"{answer.Id}. {answer.Text}");
+            }
+
+            Console.WriteLine();
+            Console.Write("Please choose the correct answer: 1, 2, 3 or 4 => ");
         }
     }
 }

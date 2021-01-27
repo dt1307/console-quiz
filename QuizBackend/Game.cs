@@ -11,12 +11,18 @@ namespace QuizBackend
         public Question GetQuestion()
         {
             Question question = new Question();
-            question.ID = 1;
             question.Text = "What is the name of brilliant scientiest Einstein?";
-            question.Answer1 = "Albert";
-            question.Answer2 = "Anthony";
-            question.Answer3 = "Aaron";
-            question.Answer4 = "Andrew";
+            question.Answers = new List<Answer>();
+            for (int i = 0; i < 4; i++)
+            {
+                Answer answer = new Answer
+                {
+                    Id = i + 1,
+                    IsCorrect = i == 0,
+                    Text = i == 0 ? "Albert" : i == 1 ? "Anthony" : i == 2 ? "Aaron" : "Andrew"
+                };
+                question.Answers.Add(answer);
+            }
             return question;
         }
     }
